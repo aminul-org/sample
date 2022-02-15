@@ -1,0 +1,14 @@
+.container{
+   background-color: aquamarine;
+   display: flex; 
+   flex-wrap: wrap;
+}
+.container>div{
+    background-color: yellowgreen;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+}
